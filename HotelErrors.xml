@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Hotels>
+<Hotel>
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -12,7 +12,7 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-	<Hotels>
+	<Hotel>
 		<Name>Hilton Tempe</Name>
 		<Phone>480-829-2600</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -108,5 +108,6 @@
 			<State>AZ</State>
 			<Zip>85258</Zip>
 		</Address>
-	
-</Hotels>
+	</Hotel>
+</Hotel>
+
