@@ -93,11 +93,6 @@
 		<Name>Sonesta Simply Suites</Name>
 		<Name>Hyatt Regency Scottsdale</Name>
 		<Phone>480-777-0440</Phone>
-			<Number>1335</Number>
-			<Street>W Baseline Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85283</Zip>
 	</Hotel>
 	<Hotel>
 		<Name>Hyatt Regency Scottsdale</Name>
@@ -110,4 +105,5 @@
 		</Address>
 	</Hotel>
 </Hotel>
+
 
